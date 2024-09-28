@@ -8,5 +8,5 @@
   ====================================
 </p>
 <p align="center">
-  <i>leeat is an open-source, universal knowledge platform that offers free access to learing resources on a wide range of subjects for anyone, anywhere, at any time.</i>
+  <i>leeat is a free, open-source platform for universal learning, accessible to anyone, anywhere.</i>
 </p>
